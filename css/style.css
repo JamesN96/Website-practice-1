@@ -5,3 +5,9 @@ body {
     background-color: #f4f4f4;
 }
 
+/* Global */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
