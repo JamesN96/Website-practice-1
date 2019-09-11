@@ -61,3 +61,22 @@ header a:hover {
     color: #cccccc;
     font-weight: bold;
 }
+
+/* Showcase */
+
+#showcase {
+    min-height: 400px;
+    background: url("../img/showcase.jpg") no-repeat 0 -400px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#showcase h1 {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-size: 55px;
+}
+
+#showcase p {
+    font-size: 20px;
+}
