@@ -135,6 +135,13 @@ aside#sidebar {
     width: 30%;
     margin-top: 10px;
 }
+
+/* Main-col Article */
+
+article#main-col {
+    float: left;
+    width: 65%;
+}
 /* Footer */
 
 footer {
