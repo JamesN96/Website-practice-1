@@ -25,6 +25,13 @@ ul {
     color: #ffffff;
 }
 
+.dark {
+    padding: 15px;
+    background: #35424a;
+    color: #ffffff;
+    margin-top: 10px 0 10px 0;
+}
+
 /* Header */
 header {
     background: #35424a;
